@@ -14,9 +14,9 @@ frameworks.
 
 ## 💻 Skills and Experience
 
-|                                                                                                                |                                                                                                                          |
-|----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
-| <img src="https://github-readme-stats.vercel.app/api?username=josecarlosmemo&show_icons=true&theme=dracula" /> | <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=josecarlosmemo&layout=compact&theme=dracula"/> |
+|                                                                                                                                           |                                                                                                                                                                  |
+|-------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Github Stats Card](https://github-readme-stats.vercel.app/api?username=josecarlosmemo&show_icons=true&theme=dracula&count_private=true) | ![Most Used Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=josecarlosmemo&layout=compact&theme=dracula&hide=shaderlab,glsl,hlsl) |
 
 ### Languages & Tools
 
