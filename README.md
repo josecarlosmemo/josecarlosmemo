@@ -1,8 +1,4 @@
-<p align="left">
-
-</p>
-
-<h1 align="center">Hi there, I'm José Carlos 👋</h1>
+![Header](images/header.png)
 
 ## 🚀 About Me
 
