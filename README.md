@@ -1,6 +1,6 @@
 ![Header](images/header.png)
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=josecarlosmemo.josecarlosmemo&left_color=rgb(68,%2071,%2090)&right_color=rgb(255,%20121,%20198)&left_text=Profile%20Views" align="right"/>
+<img src="https://visitor-badge.glitch.me/badge?page_id=josecarlosmemo.josecarlosmemo.profile&left_color=rgb(68,%2071,%2090)&right_color=rgb(255,%20121,%20198)&left_text=Profile%20Views" align="right"/>
 
 <h2> 🚀 About Me </h2>
 
