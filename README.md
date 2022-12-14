@@ -21,7 +21,7 @@ I’m a Computer Science and Technology student from México 🇲🇽, I love al
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josecarlosmemo&layout=compact&theme=dracula&hide=shaderlab,glsl,hlsl&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josecarlosmemo&layout=compact&theme=dracula&hide=shaderlab,glsl,hlsl,jupyter%20notebook&hide_border=true" align="left" style="width: 100%" />
 
 </td></tr></table>
 
