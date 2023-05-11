@@ -33,7 +33,7 @@ I’m a Computer Science and Technology student from México 🇲🇽, I love al
 
 <h2> <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> Stuff I worked on last week  </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@josecarlosmemo&compact=True&theme=dracula"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@josecarlosmemo&compact=True&theme=dracula&range=last_7_days"/>
 </a>
 <br>
 
